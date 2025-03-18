@@ -1,0 +1,6 @@
+모르시나요 모르시나요 모르시나요 모르시나요 
+
+git repository 생성
+내폴더 만들기 (로컬)
+git init (git 사용선언)
+git remote add orgin 주소 (repository 원격메인 가져와서 로컬메인설정)
